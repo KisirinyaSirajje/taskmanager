@@ -156,7 +156,7 @@ function TaskManager() {
     <div className="min-h-screen bg-gray-50 py-8">
       <div className="max-w-md mx-auto bg-white rounded-lg shadow-md overflow-hidden">
         <div className="px-4 py-5 sm:px-6">
-          <h1 className="text-2xl font-bold text-gray-800 text-center">Task Manager</h1>
+          <h1 className="text-2xl font-bold text-gray-800 text-center">Taskify</h1>
         </div>
         
         <div className="border-t border-gray-200">
